@@ -1,2 +1,4 @@
 # Demo_Mail_Drupal
-demo  Send mail programmatically in Drupal 
+ Send mail programmatically in Drupal 
+ demo from https://drupal.com.vn/send-mail-programmatically-in- drupal
+ 
